@@ -75,6 +75,7 @@ section {
 }
 .product-item:hover {
     transform: scale(1.05);
+}
 
 footer {
   background: #333;
